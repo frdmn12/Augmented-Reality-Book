@@ -8,7 +8,20 @@
         Link Youtube
         </a> 
     </h3>
-    <video width="320" height="240" controls>
-        <source src="Demo-Apps.mp4" type="video/mp4">
-    </video>
 </div>
+
+## Definisi
+AR Book merupakan aplikasi yang memanfaatkan teknologi Augmented Reality untuk dapat memperlihatkan review buku novel. Pada aplikasi ini terdapat informasi seperti rating dari buku, synopsis, serta review dari beberapa pembacanya dengan hal tersebut dapat membantu para pembaca atau pecinta buku.
+
+
+## Tools & Software 
+1.	Figma		: Digunakan untuk membuat user interface screen pada aplikasi
+2.	Adobe Photoshop 	: Digunakan untuk mendesain atau memotong Cover Buku
+3.	Unity	 	: Digunakan untuk membangun aplikasi Augmented Reality
+a.	SDK		: Vuforia Engine
+4.	Goodreads.com	: Digunakan untuk mencari review & rating buku
+
+
+
+## Demo
+[![Alt text](https://img.youtube.com/vi/sIR-GvLwCek/0.jpg)](https://www.youtube.com/watch?v=sIR-GvLwCek)
