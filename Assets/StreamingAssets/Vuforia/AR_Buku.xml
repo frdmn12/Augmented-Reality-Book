@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="taraEducated" size="100.000000 148.307693" />
+    <ImageTarget name="boyPadaSenja" size="100.000000 146.252289" />
+    <ImageTarget name="bumiTere" size="100.000000 148.226944" />
+  </Tracking>
+</QCARConfig>
