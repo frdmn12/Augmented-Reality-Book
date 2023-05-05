@@ -15,8 +15,8 @@ AR Book merupakan aplikasi yang memanfaatkan teknologi Augmented Reality untuk d
 1.	Figma		: Digunakan untuk membuat user interface screen pada aplikasi
 2.	Adobe Photoshop 	: Digunakan untuk mendesain atau memotong Cover Buku
 3.	Unity	 	: Digunakan untuk membangun aplikasi Augmented Reality
-a.	SDK		: Vuforia Engine
-4.	Goodreads.com	: Digunakan untuk mencari review & rating buku
+4. 	SDK		: Vuforia Engine
+5.	Goodreads.com	: Digunakan untuk mencari review & rating buku
 
 
 
